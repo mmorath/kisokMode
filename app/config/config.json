@@ -1,4 +1,7 @@
 {
-    "url": "http://example.com",  // Beispiel Webseite
-    "refresh_interval": 300       // Aktualisierungsintervall in Sekunden
+    "urls": [
+        "https://www.tagesschau.de/",
+        "https://edition.cnn.com/"
+    ],
+    "refresh_interval": 10
 }
